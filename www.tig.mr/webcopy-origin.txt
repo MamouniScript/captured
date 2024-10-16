@@ -1,0 +1,148 @@
+Uri: https://cdn.rtlcss.com/bootstrap/v4.2.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.tig.mr\bootstrap\v4.2.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.rtlcss.com/bootstrap/v4.2.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.tig.mr\bootstrap\v4.2.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.tig.mr\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.2.1.slim.min.js
+File Name: C:\Downloaded Web Sites\www.tig.mr\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://www.tig.mr/assets/fonts/Questv1-Bold.otf
+File Name: C:\Downloaded Web Sites\www.tig.mr\assets\fonts\Questv1-Bold.otf
+Content Type: font/otf
+
+Uri: https://www.tig.mr/assets/fonts/Questv1-Regular.otf
+File Name: C:\Downloaded Web Sites\www.tig.mr\assets\fonts\Questv1-Regular.otf
+Content Type: font/otf
+
+Uri: https://www.tig.mr/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\www.tig.mr\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.tig.mr/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\www.tig.mr\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://www.tig.mr/assets/img/logo_native.png
+File Name: C:\Downloaded Web Sites\www.tig.mr\assets\img\logo_native.png
+Content Type: image/png
+
+Uri: https://www.tig.mr/contents/article/26343
+File Name: C:\Downloaded Web Sites\www.tig.mr\contents\article\26343.html
+Content Type: text/html
+
+Uri: https://www.tig.mr/public/images/authors/f5eae539626724c76ca39e49ae23482f.jpg
+File Name: C:\Downloaded Web Sites\www.tig.mr\public\images\authors\f5eae539626724c76ca39e49ae23482f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tig.mr/public/images/pubs/23e3dcce6a271c836baff17ddc0ee23c.gif
+File Name: C:\Downloaded Web Sites\www.tig.mr\public\images\pubs\23e3dcce6a271c836baff17ddc0ee23c.gif
+Content Type: image/gif
+
+Uri: https://www.tig.mr/public/images/pubs/db9e9552b54970317581b160914a0ff7.jpg
+File Name: C:\Downloaded Web Sites\www.tig.mr\public\images\pubs\db9e9552b54970317581b160914a0ff7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tig.mr/r7b/r37765.jpg/md
+File Name: C:\Downloaded Web Sites\www.tig.mr\r7b\r37765.jpg\md
+Content Type: image/jpeg
+
+Uri: https://www.tig.mr/r7b/r37765.jpg/sm
+File Name: C:\Downloaded Web Sites\www.tig.mr\r7b\r37765.jpg\sm
+Content Type: image/jpeg
+
+Uri: https://www.tig.mr/r7b/r59689.jpg/sm
+File Name: C:\Downloaded Web Sites\www.tig.mr\r7b\r59689.jpg\sm
+Content Type: image/png
+
+Uri: https://www.tig.mr/r7b/r60884.jpg/md
+File Name: C:\Downloaded Web Sites\www.tig.mr\r7b\r60884.jpg\md
+Content Type: image/jpeg
+
+Uri: https://www.tig.mr/r7b/r61105.jpg/md
+File Name: C:\Downloaded Web Sites\www.tig.mr\r7b\r61105.jpg\md
+Content Type: image/jpeg
+
+Uri: https://www.tig.mr/r7b/r61117.jpg/sm
+File Name: C:\Downloaded Web Sites\www.tig.mr\r7b\r61117.jpg\sm
+Content Type: image/jpeg
+
